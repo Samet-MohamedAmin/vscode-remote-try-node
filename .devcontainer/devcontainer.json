@@ -34,7 +34,7 @@
 	// Resource limits for the container
 	"hostRequirements": {
 		"cpus": 1,
-		"memory": "500mb",
+		"memory": "800mb",
 		"storage": "5gb"
 	},
 
